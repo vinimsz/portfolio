@@ -26,12 +26,12 @@ h1 span {
     color: #191970;
 }
 
-/* Alinhamento das imagens lado a lado */
+
 .clientes-container {
     display: flex;
     justify-content: center;
     gap: 20px;
-    flex-wrap: wrap; /* Permite que as imagens se ajustem em telas menores */
+    flex-wrap: wrap; 
 }
 
 .cliente {
